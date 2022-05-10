@@ -229,3 +229,17 @@ html {
 		width:100%;
 	}
 }
+.container  .submit-btn{
+  width: 100%;
+  padding:12px;
+  font-size: 17px;
+  background: #000000;
+  color:#f9f9f9;
+  margin-top: 5px;
+  cursor: pointer;
+}
+
+.container  .submit-btn:hover{
+  background: #000000;
+}
+
